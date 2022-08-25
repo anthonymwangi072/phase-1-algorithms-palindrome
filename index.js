@@ -17,11 +17,19 @@ if(word === "abba"){
 
 /* 
   Add your pseudocode here
-*/use if statement to solve the test cases.
+//use if statement to solve the test cases
+
 
 /*
   Add written explanation of your solution here
-*/the code should use an if statement to check whether the arguments are truthy else if the conditions are not met the condition should return false
+  the code should use an if statement to check whether the arguments are truthy  else if the conditions are not met the condition should return false
+
+// */
+
+
+
+
+
 
 // You can run `node index.js` to view these console logs
 if (require.main === module) {
